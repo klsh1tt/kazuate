@@ -2,6 +2,7 @@ package kazuate_9;
 
 public class Main {
 
+
 	public static void main(String[] args) {
 		/* インスタンスの生成 */
 		Calc c = new Calc();
